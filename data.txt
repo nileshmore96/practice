@@ -1,6 +1,0 @@
-class classname{
-
-public static void main(String[]args){
-System.out.println("data update");
-System.out.println("data added");
-}
